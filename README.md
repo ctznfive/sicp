@@ -1,6 +1,6 @@
 # SICP Solutions
 
-My solutions to selected exercises from "Structure and Interpretation of Computer Programs" (SICP) MIT course.
+My solutions to selected exercises from _**"Structure and Interpretation of Computer Programs"**_ (SICP) MIT course.
 
 ![SICP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/6-001s05.jpg)
 
