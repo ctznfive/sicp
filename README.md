@@ -1,6 +1,6 @@
 # SICP Solutions
 
-My solutions to selected exercises from the masterpiece _**"Structure and Interpretation of Computer Programs"**_ (SICP).
+My solutions to selected exercises from the masterpiece _**"Structure and Interpretation of Computer Programs"**_ (MIT course).
 
 ![SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/cover.jpg)
 
