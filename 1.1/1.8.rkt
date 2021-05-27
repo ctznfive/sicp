@@ -13,7 +13,7 @@
 (define (improve guess x)
   (/ (+ (/ x
            (square guess))
-     (* 2 guess))
+        (* 2 guess))
      3))
 
 (define (cube-iter guess x)
